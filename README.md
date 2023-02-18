@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @NisarSyed
-- 👀 I’m interested in Data, Data and some more Data!
 - 🌱 I’m currently doing BS Computer Science at Habib University 
 - 📫 How to reach me: nisarsyed510@gmail.com
