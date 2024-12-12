@@ -1,17 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/89469004?v=4"  />
-</div>
-
-###
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nisarsyed.nisarsyed&"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
