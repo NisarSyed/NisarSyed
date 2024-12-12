@@ -16,14 +16,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Nisar from Karachi, Pakistan<br><br>- 🔭 I’m majoring in Computer Science<br>- 📚 I'm currently learning about AI and Machine Learning<br>- ⚡ In my free time I play video games and watch sports<br>- 📫 How to reach me: nisarsyed510@gmail.com</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -56,16 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nisarsyed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
